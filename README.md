@@ -13,6 +13,7 @@ Please check the original figure in the following PDF
 
 # PDF link:
 The PDF has been uploaded in the repository.
+The link is https://github.com/lqk67506/Project2/blob/master/CS599%20ML%20Project2%20Week%203.pdf
 
 # How to reproduce:
 Download the fold which include the code and run Makefile
